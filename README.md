@@ -11,4 +11,4 @@ My First Blog Project
 - delete
 
 ## <b>Platform Hosted</b>
-- Heroku: https://pipepblogger.herokuapp.com/
+- Heroku:  https://edemede.herokuapp.com/
